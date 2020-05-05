@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/waramaki/re-typescript-for-javascript-developers#readme",
   "devDependencies": {
+    "ts-node": "^8.5.4",
     "typescript": "^3.7.5"
   }
 }
